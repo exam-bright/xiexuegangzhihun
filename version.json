@@ -1,0 +1,6 @@
+{
+  "versionCode": 14,
+  "versionName": "1.14-debug",
+  "url": "https://github.com/exam-bright/xiexuegangzhihun/releases/download/launcher-v1.14/tiexie-launcher-debug-v1.14.apk",
+  "notes": "内置固定 GitHub 更新地址；打开启动器自动检查，发现更高版本后提示确认更新；保留悬浮球、透明度和存档。"
+}
